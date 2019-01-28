@@ -39,6 +39,7 @@ body {
     float: left;
     padding: 20px;
     height: 305px;
+    margin-bottom: 15px;
 }
 
 #article {
@@ -50,6 +51,7 @@ body {
     padding: 20px;
     width: 480px;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 #footer {
@@ -66,7 +68,7 @@ h1 {
     background-color: #ebebeb;
     padding: 20px;
     text-align: center;
-    margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 p {
